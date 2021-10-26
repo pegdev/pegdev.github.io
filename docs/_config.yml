@@ -21,7 +21,6 @@
 title: Projeto Equilibrio Geral - Núcleo Computação
 description: >- # this means to ignore newlines until "baseurl:"
   Um site com resumos e material de apoio para as atividades do núcleo de computação no Projeto de Equilíbrio Geral
-baseurl: /docs/_site
 url: https://pegdev.github.io
 domain: pegdev.github.io      
 permalink: /:categories/:title/
